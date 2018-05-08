@@ -1,6 +1,10 @@
 backend:
   name: git-gateway
 
+slug:
+  encoding: "ascii"
+  clean_accents: true
+
 media_folder: "src/img/"
 public_folder: "/img/"
 
@@ -21,7 +25,7 @@ collections:
               - {label: "FontAwesome Icon Name (without fa*-)", name: icon, widget: string}
       - label: "General"
         name: "general"
-        file: "site/data/settings.toml"
+        file: "site/data/settings.yml"
         fields:
           - name: "params"
             label: "Params"
@@ -30,6 +34,16 @@ collections:
               - {label: "Google API Key", name: googleapikey, widget: string}
               - {label: "Company Address", name: address, widget: markdown}
               - {label: "Company Phone Number", name: phone, widget: string}
+  - label: "Product Categories"
+    name: "categories"
+    file: "site/data/categories.yml"
+    fields:
+      - label: "Category List"
+        name: "list"
+        widget: "list"
+        fields:
+          - {label: Name, name: name, widget: string}
+          - {label: Image, name: headerimage, widget: image}
   - label: "News"
     name: "posts"
     folder: "site/content/posts"
@@ -119,3 +133,34 @@ collections:
             fields:
             - {label: "Show subscribe section", name: enabled, widget: boolean}
             - {label: "Caption (shown before form)", name: caption, widget: text}
+  - label: "Products"
+    name: "products"
+    folder: "site/content/products"
+    create: true
+    fields:
+    - {label: "Title", name: "title", widget: "string"}
+    - {label: "Publish Date", name: "date", widget: "datetime", data}
+    - {label: "Featured Image", name: "imageurl", widget: "image"}
+    - label: "Categories"
+      name: "categories"
+      widget: "relation"
+      collection: "categories"
+      searchField: ["name"]
+      valueField: "name"
+    - label: "Types"
+      name: "types"
+      widget: "select"
+      options: ["Tray", "Hinge Pack", "Multi-Cavity", "Lid", "Pot", "Bowl", "Collation", "Base", "Insert", "Jelly Mould", "SOT", "Pyramid", "Collation", "Fold Up", "Specialist"]
+    - label: "Object"
+        name: "productinfo"
+        widget: "object"
+        fields:
+        - {label: "Internet No.", name: "internetno", widget: "string"}
+        - {label: "Product No.", name: "productno", widget: "string"}
+        - {label: "Length (in mm)", name: "length", widget: "number", valueType: "int", min: 1, max: 10000}
+        - {label: "Width (in mm)", name: "width", widget: "number", valueType: "int", min: 1, max: 10000}
+        - {label: "Depth (in mm)", name: "depth", widget: "number", valueType: "int", min: 1, max: 10000}
+        - {label: "Box Shape", name: "shape", widget: "select", options: ["Rectangle", "Round", "Square", "Oval", "Octagonal", "Specialist"]}
+        - {label: "Polymer Type", name: "polymer", widget: "select", options: ["A-PET", "APET-PE", "POLY PROP", "DEEP FREEZE PP", "APET D BLEND", "PP-EVOH-PP", "STYRENE", "APET EVOH-PE"]}
+    - {label: "Body", name: "body", widget: "markdown"}
+    
