@@ -1,0 +1,165 @@
+.navbar {
+  background: var(--state-dark);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 1rem 1rem;
+  position: fixed;
+  width: 100%;
+  z-index: 50;
+
+  &-brand {
+    color: white;
+    font-size: 1.5rem;
+    width: auto;
+
+    &-logo {
+      height: 3rem;
+      margin-right: 0.5rem;
+    }
+
+    &-tagline {
+      height: 2rem;
+      fill: #fff;
+    }
+
+    &:--enter {
+      text-decoration: none;
+    }
+  }
+
+  &-toggle {
+    display: block;
+    margin-left: auto;
+    position: relative;
+    z-index: 5;
+  }
+
+  &-wrapper {
+    background: var(--state-dark);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content :center;
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translateY(-100vh);
+
+    &.is-active {
+      transition: transform 0.2s ease-in-out;
+    }
+
+    &.is-open {
+      transform: translateY(0);
+    }
+  }
+
+  &-nav {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+
+    li {
+      margin: 1rem 0;
+
+      a {
+        color: white;
+        white-space: nowrap;
+        font-family: var(--font-sans-serif);
+        font-size: 1.125rem;
+        padding: 0.5rem 1rem;
+        text-align: center;
+
+        &:--enter {
+          text-decoration: none;
+          color: var(--state-primary);
+        }
+      }
+    }
+  }
+
+  & .social {
+
+    li {
+
+      a {
+        color: white;
+
+        &:--enter {
+          color: var(--state-primary);
+        }
+      }
+    }
+  }
+
+  & + .hero, & + .pagehead {
+    padding-top: 5rem;
+  }
+}
+
+@media (--breakpoint-md-up) { 
+  .navbar {
+    background: transparent;
+    padding: 2rem 1rem;
+
+    &-brand {
+      & img {
+        height: 4rem;
+      }
+    }
+
+    &-toggle {
+      display: none;
+    }
+
+    &-wrapper {
+      background: none;
+      flex-direction: row;
+      height: auto;
+      width: auto;
+      position: static;
+      transform: translateY(0);
+      transition: none;
+    }
+
+    &-nav {
+      background: none;
+      flex-direction: row;
+    }
+
+    & .social {
+      margin-left: 1rem;
+    }
+
+    &.is-shrunk {
+      background: var(--state-dark);
+      padding: 1rem 1rem;
+
+      & .navbar-brand-logo {
+        height: 2.5rem;
+        g {
+          fill: var(--state-primary);
+        }
+      }
+
+      & .navbar-brand-tagline {
+        fill: var(--state-primary);
+      }
+    }
+
+    & + .hero, & + .pagehead {
+      padding-top: 6.5rem;
+    }
+  }
+}
+
+@media (--breakpoint-md-up) {
+  .navbar {
+    padding: 2rem;
+  }
+}

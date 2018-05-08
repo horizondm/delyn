@@ -1,0 +1,121 @@
+backend:
+  name: git-gateway
+
+media_folder: "src/img/"
+public_folder: "/img/"
+
+collections:
+  - label: "Settings"
+    name: "settings"
+    files:
+      - label: "Social Media"
+        name: "social"
+        file: "site/data/social.yml"
+        fields:
+          - label: "Social Media List"
+            name: "list"
+            widget: "list"
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: "Link (URL)", name: url, widget: string}
+              - {label: "FontAwesome Icon Name (without fa*-)", name: icon, widget: string}
+      - label: "General"
+        name: "general"
+        file: "site/data/settings.toml"
+        fields:
+          - name: "params"
+            label: "Params"
+            widget: "object"
+            fields:
+              - {label: "Google API Key", name: googleapikey, widget: string}
+              - {label: "Company Address", name: address, widget: markdown}
+              - {label: "Company Phone Number", name: phone, widget: string}
+  - label: "News"
+    name: "posts"
+    folder: "site/content/posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+    - {label: "Title", name: "title", widget: "string"}
+    - {label: "Publish Date", name: "date", widget: "datetime", data}
+    - {label: "Featured Image", name: "headerimage", widget: "image"}
+    - {label: "Body", name: "body", widget: "markdown"}
+
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Contact"
+        name: "contact"
+        file: "site/content/pages/contact.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - label: "SEO"
+            name: "seo"
+            widget: "object"
+            fields:
+              - {label: "SEO Title", name: title, widget: string}
+              - {label: "SEO Description", name: description, widget: string}
+          - {label: "Header Image", name: headerimage, widget: image}
+          - {label: Body, name: body, widget: markdown}
+      - label: "About"
+        name: "about"
+        file: "site/content/pages/about.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - label: "SEO"
+            name: "seo"
+            widget: "object"
+            fields:
+              - {label: "SEO Title", name: title, widget: string}
+              - {label: "SEO Description", name: description, widget: string}
+          - {label: "Header Image", name: headerimage, widget: image}
+          - {label: Body, name: body, widget: markdown}
+          - label: "Sections"
+            name: "sections"
+            widget: "list"
+            fields:
+            - {label: Image, name: image, widget: image}
+            - {label: Text, name: text, widget: markdown}
+      - label: "Home"
+        name: "home"
+        file: "site/content/_index.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - label: "SEO"
+            name: "seo"
+            widget: "object"
+            fields:
+              - {label: "SEO Title", name: title, widget: string}
+              - {label: "SEO Description", name: description, widget: string}
+          - label: "Header"
+            name: "header"
+            widget: "object"
+            fields:
+              - {label: "Image", name: image, widget: image}
+              - {label: "Heading", name: heading, widget: string}
+              - {label: "Text", name: text, widget: text}
+              - label: "Primary Action"
+                name: "primaryaction"
+                widget: "object"
+                fields: 
+                  - {label: "Text", name: text, widget: string}
+                  - {label: "URL", name: url, widget: string}
+              - label: "Secondary Action"
+                name: "secondaryaction"
+                widget: "object"
+                fields: 
+                  - {label: "Text", name: text, widget: string}
+                  - {label: "URL", name: url, widget: string}
+          - label: "Products Section"
+            name: "products"
+            widget: "object"
+            fields:
+            - {label: "Heading", name: heading, widget: string}
+            - {label: "Subheading", name: subheading, widget: text}
+          - {label: "Video Embed ID (In youtube link, everything after ?v=)", name: videofeature, widget: string}
+          - label: "Subscription Section"
+            name: "subscribe"
+            widget: "object"
+            fields:
+            - {label: "Show subscribe section", name: enabled, widget: boolean}
+            - {label: "Caption (shown before form)", name: caption, widget: text}

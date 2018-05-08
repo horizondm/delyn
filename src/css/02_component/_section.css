@@ -1,0 +1,156 @@
+.section {
+  padding: 6rem 1rem;
+  text-align: center;
+
+  &--bg {
+    color: white;
+    position: relative;
+
+    & > * {
+      position: relative;
+    }
+  }
+
+  &--overlay {
+    &:before {
+      content: '';
+      display: block;
+      height: 100%;
+      width: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      background: #0000007f;
+    }
+  }
+
+  &-bg {
+    position: absolute;
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+
+  &-heading {
+    text-align: center;
+  }
+
+  &-subheading {
+    color: var(--color-gray);
+    font-family: var(--font-serif);
+    font-weight: var(--font-weight);
+    margin-bottom: 4rem;
+    text-align: center;
+  }
+
+  &-form {
+    max-width: 80%;
+  }
+
+  &--split {
+    text-align: left;
+    padding: 0 0;
+  }
+
+  &-split {
+    padding: 3rem 1rem;
+
+    &-image {
+      padding: 0 !important;
+      height: 100%;
+    }
+  }
+}
+
+@media (--breakpoint-md-up) {
+  .section {
+    padding: 6rem 2rem;
+
+    &-subheading {
+      width: 75%;
+    }
+
+    &-form {
+      max-width: 70%;
+    }
+
+    &--split {
+      display: flex;
+      flex-direction: row;
+      align-items: stretch;
+      padding: 0;
+    }
+
+    &-split {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 4rem 3rem;
+      max-width: 50%;
+      flex: 1;
+
+      & .section-heading {
+        text-align: left;
+      }
+
+      &-image {
+        object-fit: cover;
+      }
+
+      .section--split:nth-child(even) &:first-child {
+        order: 2;
+      }
+      .section--split:nth-child(even) &:last-child {
+        order: 1;
+      }
+    }
+  }
+
+  @supports ( display: grid ) {
+    .section--split {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .section-split {
+      max-width: 100%;
+      width: 100%;
+
+      &:nth-child(even) {
+        grid-column: 2;
+      }
+
+      .section--split:nth-child(even) &:first-child {
+        grid-column: 2;
+      }
+      .section--split:nth-child(even) &:last-child {
+        grid-column: 1;
+      }
+    }
+  }
+}
+
+@media (--breakpoint-lg-up) {
+  .section {
+    padding: 8rem 2rem;
+
+    &-subheading {
+      width: 50%;
+    }
+
+    &-form {
+      max-width: 50%;
+    }
+
+    &--split {
+      padding: 0;
+    }
+
+    &-split {
+      padding: 6rem 4rem;
+    }
+  }
+}

@@ -1,0 +1,5 @@
+{{ define "main" }}
+  <main class="content {{ .Title }} {{ .Section | urlize }}">
+    {{ .Render "categorylist" }}
+  </main>
+{{end}}

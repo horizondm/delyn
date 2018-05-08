@@ -1,0 +1,22 @@
+baseurl = "/"
+languageCode = "en-gb"
+languageLang = "en-gb"
+title = "Delyn Packaging"
+preserveTaxonomyNames=true
+paginate = 12
+googleAnalytics = ""
+
+[taxonomies]
+  type = "types"
+  category = "categories"
+
+[permalinks]
+  pages = "/:title"
+  posts = "/:title"
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+[params]
+  headerimage = "/img/home-header-bg-lg.jpg"
+  
