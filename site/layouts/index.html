@@ -34,7 +34,7 @@
 <section class="section section--bg section--overlay section--feature">
   {{ partial "image-progressive.html" (dict "image" ($.Param "subscribe.image") "class" "section-bg" "alt" "Home Feature Background" "sizes" "100vw" "cover" true ) }}
   <p class="text-size-6">{{ $.Param "subscribe.caption" }}</p>
-  <form class="section-form mar-x-auto" name="signup" action="#">
+  <form class="section-form mar-x-auto" name="signup" netlify>
     <div class="input-group">
       <input type="email" class="input-lg" placeholder="Email">
       <button type="button" class="button button-lg disabled">Submit</button>
