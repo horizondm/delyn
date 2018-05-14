@@ -9,8 +9,8 @@ media_folder: "src/img/"
 public_folder: "/img/"
 
 collections:
-  - label: "Settings"
-    name: "settings"
+  - name: "settings"
+    label: "Settings"
     files:
       - label: "Social Media"
         name: "social"
@@ -34,16 +34,6 @@ collections:
               - {label: "Google API Key", name: googleapikey, widget: string}
               - {label: "Company Address", name: address, widget: markdown}
               - {label: "Company Phone Number", name: phone, widget: string}
-  - label: "Product Categories"
-    name: "productcategories"
-    file: "site/data/categories.yml"
-    fields:
-      - label: "Category List"
-        name: "list"
-        widget: "list"
-        fields:
-          - {label: Name, name: name, widget: string}
-          - {label: Image, name: headerimage, widget: image}
   - label: "News"
     name: "posts"
     folder: "site/content/posts"
@@ -144,9 +134,7 @@ collections:
     - label: "Categories"
       name: "categories"
       widget: "relation"
-      collection: "productcategories"
-      searchField: ["name"]
-      valueField: "name"
+      collection: "categorylist"
     - label: "Types"
       name: "types"
       widget: "select"
@@ -163,4 +151,14 @@ collections:
       - {label: "Box Shape", name: "shape", widget: "select", options: ["Rectangle", "Round", "Square", "Oval", "Octagonal", "Specialist"]}
       - {label: "Polymer Type", name: "polymer", widget: "select", options: ["A-PET", "APET-PE", "POLY PROP", "DEEP FREEZE PP", "APET D BLEND", "PP-EVOH-PP", "STYRENE", "APET EVOH-PE"]}
     - {label: "Body", name: "body", widget: "markdown"}
+  - name: "categorylist"
+    label: "Product Categories"
+    file: "site/data/categories.yml"
+    fields:
+      - label: "Category List"
+        name: "list"
+        widget: "list"
+        fields:
+          - {label: Name, name: name, widget: string}
+          - {label: Image, name: headerimage, widget: image}
     
