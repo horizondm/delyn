@@ -133,10 +133,8 @@ collections:
     - {label: "Featured Image", name: "imageurl", widget: "image"}
     - label: "Categories"
       name: "categories"
-      widget: "relation"
-      collection: "categorylist"
-      searchFields: ["name"]
-      valueField: "name"
+      widget: "list"
+      default: ["Standard"]
     - label: "Types"
       name: "types"
       widget: "list"
