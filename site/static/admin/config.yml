@@ -133,8 +133,8 @@ collections:
     - {label: "Featured Image", name: "imageurl", widget: "image"}
     - label: "Categories"
       name: "categories"
-      widget: "relation"
-      collection: "categorylist"
+      widget: "select"
+      options:   ["Salad", "Snack", "Meat & BBQ", "Meal Tray", "Bakery", "Meatball Trays", "Party", "Standards", "Burger Trays", "Ice Cream", "Display"]
     - label: "Types"
       name: "types"
       widget: "select"
