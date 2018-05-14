@@ -35,7 +35,7 @@ collections:
               - {label: "Company Address", name: address, widget: markdown}
               - {label: "Company Phone Number", name: phone, widget: string}
   - label: "Product Categories"
-    name: "categories"
+    name: "productcategories"
     file: "site/data/categories.yml"
     fields:
       - label: "Category List"
@@ -144,7 +144,7 @@ collections:
     - label: "Categories"
       name: "categories"
       widget: "relation"
-      collection: "categories"
+      collection: "productcategories"
       searchField: ["name"]
       valueField: "name"
     - label: "Types"
