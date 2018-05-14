@@ -134,7 +134,7 @@ collections:
     - label: "Categories"
       name: "categories"
       widget: "select"
-      options:   ["Salad", "Snack", "Meat & BBQ", "Meal Tray", "Bakery", "Meatball Trays", "Party", "Standards", "Burger Trays", "Ice Cream", "Display"]
+      collection: "categorylist"
     - label: "Types"
       name: "types"
       widget: "select"
@@ -153,12 +153,15 @@ collections:
     - {label: "Body", name: "body", widget: "markdown"}
   - name: "categorylist"
     label: "Product Categories"
-    file: "site/data/categories.yml"
-    fields:
-      - label: "Category List"
-        name: "list"
-        widget: "list"
-        fields:
-          - {label: Name, name: name, widget: string}
-          - {label: Image, name: headerimage, widget: image}
+    files:
+      name: "categories"
+      label: "Categories"
+      file: "site/data/categories.yml"
+      fields:
+        - label: "Category List"
+          name: "list"
+          widget: "list"
+          fields:
+            - {label: Name, name: name, widget: string}
+            - {label: Image, name: headerimage, widget: image}
     
