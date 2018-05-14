@@ -133,12 +133,12 @@ collections:
     - {label: "Featured Image", name: "imageurl", widget: "image"}
     - label: "Categories"
       name: "categories"
-      widget: "select"
+      widget: "relation"
       collection: "categorylist"
     - label: "Types"
       name: "types"
-      widget: "select"
-      options: ["Tray", "Hinge Pack", "Multi-Cavity", "Lid", "Pot", "Bowl", "Collation", "Base", "Insert", "Jelly Mould", "SOT", "Pyramid", "Collation", "Fold Up", "Specialist"]
+      widget: "list"
+      default: ["Tray"]
     - label: "Object"
       name: "productinfo"
       widget: "object"
