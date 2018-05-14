@@ -152,15 +152,15 @@ collections:
       widget: "select"
       options: ["Tray", "Hinge Pack", "Multi-Cavity", "Lid", "Pot", "Bowl", "Collation", "Base", "Insert", "Jelly Mould", "SOT", "Pyramid", "Collation", "Fold Up", "Specialist"]
     - label: "Object"
-        name: "productinfo"
-        widget: "object"
-        fields:
-        - {label: "Internet No.", name: "internetno", widget: "string"}
-        - {label: "Product No.", name: "productno", widget: "string"}
-        - {label: "Length (in mm)", name: "length", widget: "number", valueType: "int", min: 1, max: 10000}
-        - {label: "Width (in mm)", name: "width", widget: "number", valueType: "int", min: 1, max: 10000}
-        - {label: "Depth (in mm)", name: "depth", widget: "number", valueType: "int", min: 1, max: 10000}
-        - {label: "Box Shape", name: "shape", widget: "select", options: ["Rectangle", "Round", "Square", "Oval", "Octagonal", "Specialist"]}
-        - {label: "Polymer Type", name: "polymer", widget: "select", options: ["A-PET", "APET-PE", "POLY PROP", "DEEP FREEZE PP", "APET D BLEND", "PP-EVOH-PP", "STYRENE", "APET EVOH-PE"]}
+      name: "productinfo"
+      widget: "object"
+      fields:
+      - {label: "Internet No.", name: "internetno", widget: "string"}
+      - {label: "Product No.", name: "productno", widget: "string"}
+      - {label: "Length (in mm)", name: "length", widget: "number", valueType: "int", min: 1, max: 10000}
+      - {label: "Width (in mm)", name: "width", widget: "number", valueType: "int", min: 1, max: 10000}
+      - {label: "Depth (in mm)", name: "depth", widget: "number", valueType: "int", min: 1, max: 10000}
+      - {label: "Box Shape", name: "shape", widget: "select", options: ["Rectangle", "Round", "Square", "Oval", "Octagonal", "Specialist"]}
+      - {label: "Polymer Type", name: "polymer", widget: "select", options: ["A-PET", "APET-PE", "POLY PROP", "DEEP FREEZE PP", "APET D BLEND", "PP-EVOH-PP", "STYRENE", "APET EVOH-PE"]}
     - {label: "Body", name: "body", widget: "markdown"}
     
