@@ -134,11 +134,9 @@ collections:
     - label: "Categories"
       name: "categories"
       widget: "list"
-      default: ["Standard"]
     - label: "Types"
       name: "types"
       widget: "list"
-      default: ["Tray"]
     - label: "Object"
       name: "productinfo"
       widget: "object"
