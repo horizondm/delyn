@@ -135,6 +135,8 @@ collections:
       name: "categories"
       widget: "relation"
       collection: "categorylist"
+      searchFields: ["name"]
+      valueField: "name"
     - label: "Types"
       name: "types"
       widget: "list"
