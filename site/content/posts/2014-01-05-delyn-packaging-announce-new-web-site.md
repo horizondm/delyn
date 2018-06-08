@@ -1,5 +1,5 @@
 ---
-title: Delyn Packaging Announce New Web Site
+title: 'Delyn Packaging New Web Site '
 date: '2018-06-08T02:31:05+01:00'
 headerimage: /img/delyn-tagline.svg
 ---
