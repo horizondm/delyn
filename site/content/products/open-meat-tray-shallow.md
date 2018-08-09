@@ -2,9 +2,6 @@
 title: "Open Meat Tray Shallow"
 date: 2014-03-18T00:00:00Z
 draft: false
-imagealt: ""
-imageurl: ""
-3d: ""
 categories: ["Meat & BBQ"]
 types: ["Tray"]
 productinfo:

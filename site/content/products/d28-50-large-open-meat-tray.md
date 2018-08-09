@@ -2,8 +2,8 @@
 title: "D28-50 Large Open Meat Tray"
 date: 2014-03-18T00:00:00Z
 draft: false
-imagealt: ["0-426 TENDERCUTS T-10-50 TRAY","0-426 TENDERCUTS T-10-50 TRAY"]
-imageurl: ["/img/products/0-426-TENDERCUTS-T-10-50-TRAY1.jpg","/img/products/0-426-TENDERCUTS-T-10-50-TRAY.jpg"]
+imagealt: "0-426 TENDERCUTS T-10-50 TRAY"
+imageurl: "/img/products/0-426-TENDERCUTS-T-10-50-TRAY.jpg"
 3d: "/3d/products/0-426-TENDERCUTS-T-10-50-TRAY.stl"
 categories: ["Meat & BBQ","Standards"]
 types: ["Tray"]

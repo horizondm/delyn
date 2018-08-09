@@ -3,8 +3,8 @@ title: "D2-45 Open Meat Tray"
 date: 2014-03-17T00:00:00Z
 draft: false
 imagealt: "0-410 NEW D2 45 TRAY"
-imageurl: "/img/products/0-410-NEW-D2-45-TRAY1.jpg"
-3d: "/3d/products/0-410-NEW-D2-45-TRAY1.stl"
+imageurl: "/img/products/0-410-NEW-D2-45-TRAY.jpg"
+3d: "/3d/products/0-410-NEW-D2-45-TRAY.stl"
 categories: ["Meat & BBQ","Standards"]
 types: ["Tray"]
 productinfo:

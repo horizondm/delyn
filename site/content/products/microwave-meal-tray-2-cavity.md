@@ -3,8 +3,8 @@ title: "Microwave Meal Tray 2 Cavity"
 date: 2014-03-17T00:00:00Z
 draft: false
 imagealt: "0-397 FECH TRAY 2 CAV"
-imageurl: "/img/products/0-397-FECH-TRAY-2-CAV1.jpg"
-3d: "/3d/products/0-397-FECH-TRAY-2-CAV1.stl"
+imageurl: "/img/products/0-397-FECH-TRAY-2-CAV.jpg"
+3d: "/3d/products/0-397-FECH-TRAY-2-CAV.stl"
 categories: ["Meal Tray"]
 types: ["Tray"]
 productinfo:

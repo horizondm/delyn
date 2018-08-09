@@ -3,7 +3,7 @@ title: "Prawn Base Single Cavity"
 date: 2014-03-17T00:00:00Z
 draft: false
 imagealt: "0-392 PRAWN BASE SIGLE CAV"
-imageurl: "/img/products/0-392-PRAWN-BASE-SIGLE-CAV1.jpg"
+imageurl: "/img/products/0-392-PRAWN-BASE-SIGLE-CAV.jpg"
 3d: "/3d/products/0-392-PRAWN-BASE-SIGLE-CAV1.stl"
 categories: ["Snack","Salad","Party"]
 types: ["Tray"]

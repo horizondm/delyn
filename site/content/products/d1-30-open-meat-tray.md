@@ -2,9 +2,9 @@
 title: "D1-30 Open Meat Tray"
 date: 2014-03-18T00:00:00Z
 draft: false
-imagealt: ["0-116 D1-30 TRAY 3d","00-30 SUSHI BASE"]
-imageurl: ["/img/products/0-116-D1-30-TRAY-3d.jpg","/img/products/00-30-SUSHI-BASE2.jpg"]
-3d: ["/3d/products/0-116-D1-30-TRAY-3d.stl","/3d/products/00-30-SUSHI-BASE1.stl"]
+imagealt: "0-116 D1-30 TRAY 3d"
+imageurl: "/img/products/0-116-D1-30-TRAY-3d.jpg"
+3d: "/3d/products/0-116-D1-30-TRAY-3d.stl"
 categories: ["Meat & BBQ","Standards"]
 types: ["Tray"]
 productinfo:

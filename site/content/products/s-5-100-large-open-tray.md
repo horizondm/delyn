@@ -2,8 +2,8 @@
 title: "S-5 100 Large Open Tray"
 date: 2014-03-18T00:00:00Z
 draft: false
-imagealt: ["0-425 S5-100 POLY-PROP TRAY","0-422 D15 - 60 OPEN TRAY"]
-imageurl: ["/img/products/0-425-S5-100-POLY-PROP-TRAY.jpg","/img/products/0-422-D15-60-OPEN-TRAY.jpg"]
+imagealt: "0-422 D15 - 60 OPEN TRAY"
+imageurl: "/img/products/0-422-D15-60-OPEN-TRAY.jpg"
 3d: "/3d/products/0-425-S5-100-POLY-PROP-TRAY.stl"
 categories: ["Meat & BBQ","Salad","Standards"]
 types: ["Tray"]

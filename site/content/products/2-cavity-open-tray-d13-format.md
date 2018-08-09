@@ -3,7 +3,7 @@ title: "2 Cavity Open Tray - D13 Format"
 date: 2014-03-17T00:00:00Z
 draft: false
 imagealt: ["0-470","0-473  D1-100 SMOOTH WALL"]
-imageurl: ["/img/products/0-470.jpg","/img/products/0-473-D1-100-SMOOTH-WALL.jpg"]
+imageurl: "/img/products/0-470.jpg"
 3d: "/3d/products/0-470-2-CAVITY-45mm-TRAY.stl"
 categories: ["Party","Bakery","Snack"]
 types: ["Tray"]

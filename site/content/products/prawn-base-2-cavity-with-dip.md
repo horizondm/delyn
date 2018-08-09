@@ -3,7 +3,7 @@ title: "Prawn Base 2 Cavity with Dip"
 date: 2014-03-17T00:00:00Z
 draft: false
 imagealt: "0-394 PRAWN BASE TWIN CAV"
-imageurl: "/img/products/0-394-PRAWN-BASE-TWIN-CAV1.jpg"
+imageurl: "/img/products/0-394-PRAWN-BASE-TWIN-CAV.jpg"
 3d: "/3d/products/0-394-PRAWN-BASE-TWIN-CAV1.stl"
 categories: ["Snack","Salad","Party"]
 types: ["Tray"]

@@ -2,8 +2,8 @@
 title: "C2-38 Open Sausage and Meat Tray"
 date: 2014-03-17T00:00:00Z
 draft: false
-imagealt: ["P1020463 (Large) (Mobile)","0-515  C2-38 OPEN TRAY BLACK"]
-imageurl: ["/img/products/P1020463-Large-Mobile.jpg","/img/products/0-515-C2-38-OPEN-TRAY-BLACK.jpg"]
+imagealt: "0-515  C2-38 OPEN TRAY BLACK"
+imageurl: "/img/products/0-515-C2-38-OPEN-TRAY-BLACK.jpg"
 3d: "/3d/products/0-515-C2-38-OPEN-TRAY-BLACK.stl"
 categories: ["Meat & BBQ","Standards"]
 types: ["Tray"]

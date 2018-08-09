@@ -3,7 +3,7 @@ title: "Prawn Lid to fit D568 and D570"
 date: 2014-03-17T00:00:00Z
 draft: false
 imagealt: "0-393 PRAWN BASE LID"
-imageurl: "/img/products/0-393-PRAWN-BASE-LID1.jpg"
+imageurl: "/img/products/0-393-PRAWN-BASE-LID.jpg"
 3d: ["/3d/products/0-393-PRAWN-BASE-LID1.stl","/3d/products/0-392-PRAWN-BASE-SIGLE-CAV2.stl"]
 categories: ["Snack","Salad","Party"]
 types: ["Tray"]

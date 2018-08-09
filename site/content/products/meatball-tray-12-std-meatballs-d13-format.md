@@ -3,7 +3,7 @@ title: "Meatball Tray 12 std Meatballs D13 Format"
 date: 2014-03-17T00:00:00Z
 draft: false
 imagealt: "0-219  MEATBALL TRAY"
-imageurl: "/img/products/0-219-MEATBALL-TRAY.jpg"
+imageurl: "/img/products/0-219-AFF-12-CAVITY-ORGANIC-MEATBALL-No-13-TRAY.jpg"
 3d: "/3d/products/0-219-MEATBALL-TRAY.stl"
 categories: ["Meat & BBQ","Snack","Meatball Trays"]
 types: ["Tray"]

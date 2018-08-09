@@ -2,9 +2,9 @@
 title: "Bulk Pack 1kg Tray see also D450 lid"
 date: 2014-03-18T00:00:00Z
 draft: false
-imagealt: ["0-196","0-196 1kg Bulk Pack Base","0-196 1kg Bulk Pack & Lid"]
-imageurl: ["/img/products/0-196.jpg","/img/products/0-196-1kg-Bulk-Pack-Base.jpg","/img/products/0-196-1kg-Bulk-Pack-Lid.jpg"]
-3d: ["/3d/products/0-196-1KG-BULK-PACK3.stl","/3d/products/0-196-1KG-BULK-PACK2.stl","/3d/products/0-196-1KG-BULK-PACK1.stl","/3d/products/0-196-1KG-BULK-PACK.stl","/3d/products/0-195-2KG-BULK-PACK.stl"]
+imagealt: "0-196 1kg Bulk Pack & Lid"
+imageurl: "/img/products/0-196.jpg"
+3d: "/3d/products/0-195-2KG-BULK-PACK.stl"
 categories: ["Salad","Party"]
 types: ["Tray"]
 productinfo:

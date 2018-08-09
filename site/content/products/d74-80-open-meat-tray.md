@@ -3,8 +3,8 @@ title: "D74-80 Open Meat Tray"
 date: 2014-03-18T00:00:00Z
 draft: false
 imagealt: "0-121 D74-80 OPEN TRAY"
-imageurl: "/img/products/0-121-D74-80-OPEN-TRAY1.jpg"
-3d: "/3d/products/0-121-D74-80-OPEN-TRAY1.stl"
+imageurl: "/img/products/0-121-D74-80-OPEN-TRAY.jpg"
+3d: "/3d/products/0-121-D74-80-OPEN-TRAY.stl"
 categories: ["Meat & BBQ","Standards"]
 types: ["Tray"]
 productinfo:

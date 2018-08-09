@@ -3,7 +3,7 @@ title: "D15-60 Open Meat Tray"
 date: 2014-03-17T00:00:00Z
 draft: false
 imagealt: "0-422 D15 - 60 OPEN TRAY"
-imageurl: "/img/products/0-422-D15-60-OPEN-TRAY1.jpg"
+imageurl: "/img/products/0-422-D15-60-OPEN-TRAY.jpg"
 3d: "/3d/products/0-422-D15-60-OPEN-TRAY.stl"
 categories: ["Meat & BBQ","Standards"]
 types: ["Tray"]

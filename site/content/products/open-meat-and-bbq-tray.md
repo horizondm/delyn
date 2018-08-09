@@ -3,7 +3,7 @@ title: "Open Meat and BBQ Tray"
 date: 2014-03-18T00:00:00Z
 draft: false
 imagealt: ["0-128 200 x165 x 60","0-128 200 x165 x 60"]
-imageurl: ["/img/products/0-128-200-x165-x-60-1.jpg","/img/products/0-128-200-x165-x-60-.jpg"]
+imageurl: "/img/products/0-128-200-x165-x-60-.jpg"
 3d: "/3d/products/0-128-200-x165-x-60-.stl"
 categories: ["Meat & BBQ"]
 types: ["Tray"]

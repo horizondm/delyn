@@ -3,7 +3,7 @@ title: "Open Meat Tray - Medium"
 date: 2014-03-18T00:00:00Z
 draft: false
 imagealt: "0-263 CLEAR MINCE TRAY"
-imageurl: "/img/products/0-263-CLEAR-MINCE-TRAY1.jpg"
+imageurl: "/img/products/0-263-CLEAR-MINCE-TRAY.jpg"
 3d: "/3d/products/0-263-CLEAR-MINCE-TRAY.stl"
 categories: ["Meat & BBQ"]
 types: ["Tray"]

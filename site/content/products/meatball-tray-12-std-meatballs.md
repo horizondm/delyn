@@ -3,7 +3,7 @@ title: "Meatball Tray 12 std Meatballs"
 date: 2014-03-17T00:00:00Z
 draft: false
 imagealt: "0-398 200x165x45 12 cav"
-imageurl: "/img/products/0-398-200x165x45-12-cav1.jpg"
+imageurl: "/img/products/0-398-200x165x45-12-cav.jpg"
 3d: "/3d/products/0-398-200x165x45-12-cav1.stl"
 categories: ["Meat & BBQ","Snack","Meatball Trays"]
 types: ["Tray"]

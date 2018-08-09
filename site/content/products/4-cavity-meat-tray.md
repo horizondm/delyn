@@ -3,7 +3,7 @@ title: "4 Cavity Meat Tray"
 date: 2014-03-18T00:00:00Z
 draft: false
 imagealt: "0-127 200x165x50 4 cav"
-imageurl: "/img/products/0-127-200x165x50-4-cav1.jpg"
+imageurl: "/img/products/0-127-200x165x50-4-cav.jpg"
 3d: ""
 categories: ["Meat & BBQ","Snack"]
 types: ["Tray"]

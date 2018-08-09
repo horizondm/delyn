@@ -3,7 +3,7 @@ title: "Handypack Snack Tray Deeper with foot"
 date: 2014-03-17T00:00:00Z
 draft: false
 imagealt: "0-399  DEEPER STAND UP HANDY PACK"
-imageurl: "/img/products/0-399-DEEPER-STAND-UP-HANDY-PACK1.jpg"
+imageurl: "/img/products/0-399-DEEPER-STAND-UP-HANDY-PACK.jpg"
 3d: "/3d/products/0-399-DEEPER-STAND-UP-HANDY-PACK1.stl"
 categories: ["Snack","Salad","Party"]
 types: ["Tray"]

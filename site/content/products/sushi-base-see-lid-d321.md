@@ -3,7 +3,7 @@ title: "Sushi Base - see Lid D321"
 date: 2014-03-18T00:00:00Z
 draft: false
 imagealt: "00-30 SUSHI BASE"
-imageurl: "/img/products/00-30-SUSHI-BASE1.jpg"
+imageurl: "/img/products/00-30-SUSHI-BASE.jpg"
 3d: ""
 categories: ["Meal Tray","Snack"]
 types: ["Base"]
