@@ -2,8 +2,8 @@
 title: "Meal Tray Hinge Pack"
 date: 2014-03-18T00:00:00Z
 draft: false
-imagealt: ["00-11 HOT DOG HINGE PACK","00-11 HOT DOG HINGE PACK"]
-imageurl: ["/img/products/00-11-HOT-DOG-HINGE-PACK.jpg","/img/products/00-11-HOT-DOG-HINGE-PACK2.jpg"]
+imagealt: "00-11 HOT DOG HINGE PACK"
+imageurl: "/img/products/00-11-HOT-DOG-HINGE-PACK.jpg"
 3d: ""
 categories: ["Meal Tray","Salad","Party","Snack"]
 types: ["Hinge Pack"]

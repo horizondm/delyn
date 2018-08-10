@@ -3,8 +3,8 @@ title: "Open Meat Tray Shallow 40mm"
 date: 2014-03-17T00:00:00Z
 draft: false
 imagealt: "0-130 167 x 155 x 40"
-imageurl: "/img/products/0-130-167-x-155-x-402.jpg"
-3d: "/3d/products/0-130-167-x-155-x-401.stl"
+imageurl: "/img/products/0-130-167-x-155-x-40.jpg"
+3d: "/3d/products/0-130-167-x-155-x-40.stl"
 categories: ["Meat & BBQ"]
 types: ["Tray"]
 productinfo:
