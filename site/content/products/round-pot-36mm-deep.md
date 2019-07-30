@@ -1,20 +1,21 @@
 ---
-title: "Round Pot 36mm deep"
-date: 2014-03-18T00:00:00Z
-draft: false
-imagealt: ""
-imageurl: ""
-3d: ""
-categories: ["Salad","Party","Snack"]
-types: ["Pot"]
+title: Round Pot 36mm deep
+date: 2014-03-18T00:00:00.000Z
+imageurl: /img/d434-0-182-round-pot-36mm-deep.png
+categories:
+  - Salad
+  - Party
+  - Snack
+types:
+  - Pot
 productinfo:
-  internetno: "D434"
-  productno: "0-182"
-  length: 84
-  width: 84
   depth: 36
-  shape: "Round"
-  polymer: "APET-PE"
+  internetno: D434
+  length: 84
+  polymer: APET-PE
+  productno: 0-182
+  shape: Round
+  width: 84
 ---
 Round Pot 36mm deep
 
