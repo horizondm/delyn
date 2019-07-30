@@ -1,20 +1,20 @@
 ---
-title: "Deep Octagonal Pasta Salad Hinge Pack"
-date: 2014-03-18T00:00:00Z
-draft: false
-imagealt: ""
-imageurl: ""
-3d: ""
-categories: ["Party","Salad"]
-types: ["Hinge Pack"]
+title: Deep Octagonal Pasta Salad Hinge Pack
+date: 2014-03-18T00:00:00.000Z
+imageurl: /img/d341-00-62-deep-octaganol-pasta-salad-hinge-pack.png
+categories:
+  - Party
+  - Salad
+types:
+  - Hinge Pack
 productinfo:
-  internetno: "D341"
-  productno: "00-62"
-  length: 295
-  width: 159
   depth: 77
-  shape: "Octagonal"
-  polymer: "A-PET"
+  internetno: D341
+  length: 295
+  polymer: A-PET
+  productno: 00-62
+  shape: Octagonal
+  width: 159
 ---
 This is our Deep Octagonal Pasta Salad Hinge Pack suitable for wet pasta, salads, coleslaw etc..
 
