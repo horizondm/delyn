@@ -1,20 +1,21 @@
 ---
-title: "Round Pot 80g"
-date: 2014-03-18T00:00:00Z
-draft: false
-imagealt: ""
-imageurl: ""
-3d: ""
-categories: ["Salad","Party","Snack"]
-types: ["Pot"]
+title: Round Pot 80g
+date: 2014-03-18T00:00:00.000Z
+imageurl: /img/d446-0-193-round-pot-80g.png
+categories:
+  - Salad
+  - Party
+  - Snack
+types:
+  - Pot
 productinfo:
-  internetno: "D446"
-  productno: "0-193"
-  length: 84
-  width: 84
   depth: 34
-  shape: "Round"
-  polymer: "APET-PE"
+  internetno: D446
+  length: 84
+  polymer: APET-PE
+  productno: 0-193
+  shape: Round
+  width: 84
 ---
 Round Pot 80g.
 
