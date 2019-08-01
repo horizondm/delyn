@@ -1,7 +1,7 @@
 ---
 title: 3 Cavity Multi Use Hinge Pack
 date: 2014-03-18T00:00:00.000Z
-imageurl: /img/d337-00-58-3-cavity-multi-use-hinge-pack.png
+imageurl: /img/d337-00-58-3-cavity-multi-use-hinge-pack-flat.png
 categories:
   - Bakery
   - Salad
