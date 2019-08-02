@@ -1,20 +1,21 @@
 ---
-title: "Snack Tray Open Cavity"
-date: 2014-03-18T00:00:00Z
-draft: false
-imagealt: ""
-imageurl: ""
-3d: ""
-categories: ["Party","Snack","Bakery"]
-types: ["Tray"]
+title: Snack Tray Open Cavity
+date: 2014-03-18T00:00:00.000Z
+imageurl: /img/d507-0-246-snack-tray-open-cavity.png
+categories:
+  - Party
+  - Snack
+  - Bakery
+types:
+  - Tray
 productinfo:
-  internetno: "D507"
-  productno: "0-246"
-  length: 195
-  width: 145
   depth: 40
-  shape: "Rectangle"
-  polymer: "A-PET"
+  internetno: D507
+  length: 195
+  polymer: A-PET
+  productno: 0-246
+  shape: Rectangle
+  width: 145
 ---
 Snack Tray Open Cavity. This rectangular open tray is suitable for a variety of snack and party foods. Originally designed for Spring Rolls. Available to order in Clear and Black material. The tray is suitable for heat seal or stretch / overwrap.
 
