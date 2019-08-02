@@ -1,20 +1,19 @@
 ---
-title: "Medium Open Tray 30mm deep"
-date: 2014-03-18T00:00:00Z
-draft: false
-imagealt: ""
-imageurl: ""
-3d: ""
-categories: ["Snack"]
-types: ["Tray"]
+title: Medium Open Tray 30mm deep
+date: 2014-03-18T00:00:00.000Z
+imageurl: /img/d310-00-15-medium-open-tray-30mm-deep.png
+categories:
+  - Snack
+types:
+  - Tray
 productinfo:
-  internetno: "D310"
-  productno: "00-15"
-  length: 181
-  width: 132
   depth: 30
-  shape: "Rectangle"
-  polymer: "APET-PE"
+  internetno: D310
+  length: 181
+  polymer: APET-PE
+  productno: 00-15
+  shape: Rectangle
+  width: 132
 ---
 Medium Open Tray 30mm deep.
 
