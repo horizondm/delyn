@@ -1,20 +1,20 @@
 ---
-title: "Sushi Lid see Base D322"
-date: 2014-03-18T00:00:00Z
-draft: false
-imagealt: ""
-imageurl: ""
-3d: ""
-categories: ["Meal Tray","Snack"]
-types: ["Lid"]
+title: Sushi Lid see Base D322
+date: 2014-03-18T00:00:00.000Z
+imageurl: /img/d321-00-29-sushi-lid-see-base-d322.png
+categories:
+  - Meal Tray
+  - Snack
+types:
+  - Lid
 productinfo:
-  internetno: "D321"
-  productno: "00-29"
-  length: 103
-  width: 103
   depth: 25
-  shape: "Square"
-  polymer: "A-PET"
+  internetno: D321
+  length: 103
+  polymer: A-PET
+  productno: 00-29
+  shape: Square
+  width: 103
 ---
 Sushi Lid see Base D322. This is the square lid to fit our sushi square base. Available to order in Clear material.
 
