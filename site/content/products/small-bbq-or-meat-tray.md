@@ -1,20 +1,19 @@
 ---
-title: "Small BBQ or Meat Tray"
-date: 2014-03-18T00:00:00Z
-draft: false
-imagealt: ""
-imageurl: ""
-3d: ""
-categories: ["Meat & BBQ"]
-types: ["Tray"]
+title: Small BBQ or Meat Tray
+date: 2014-03-18T00:00:00.000Z
+imageurl: /img/d511-0-250-small-bbq-or-meat-tray.png
+categories:
+  - Meat & BBQ
+types:
+  - Tray
 productinfo:
-  internetno: "D511"
-  productno: "0-250"
-  length: 222
-  width: 136
   depth: 70
-  shape: "Rectangle"
-  polymer: "APET-PE"
+  internetno: D511
+  length: 222
+  polymer: APET-PE
+  productno: 0-250
+  shape: Rectangle
+  width: 136
 ---
 Small BBQ or Meat Tray. This tray is ideal for BBQ ranges or for a variety of meat cuts. The tray is designed for a heat seal or stretch / overwrap closure. Available to order in Clear or Black plastic material.
 
