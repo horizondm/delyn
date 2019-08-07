@@ -1,17 +1,19 @@
 ---
-title: "Open Meat Tray Shallow"
-date: 2014-03-18T00:00:00Z
-draft: false
-categories: ["Meat & BBQ"]
-types: ["Tray"]
+title: Open Meat Tray Shallow
+date: 2014-03-18T00:00:00.000Z
+imageurl: /img/d392-0-129-open-meat-tray-shallow.png
+categories:
+  - Meat & BBQ
+types:
+  - Tray
 productinfo:
-  internetno: "D392"
-  productno: "0-129"
-  length: 198
-  width: 166
   depth: 40
-  shape: "Rectangle"
-  polymer: "APET-PE"
+  internetno: D392
+  length: 198
+  polymer: APET-PE
+  productno: 0-129
+  shape: Rectangle
+  width: 166
 ---
 Open Meat Tray Shallow. Very widely used all year round for meat cuts of Pork, lamb, Beef, Chicken and Turkey. The Open Meat Tray Shallow is a versatile size and can be heat sealed or stretch wrapped. This tray is available to order in both Clear and Black.
 
