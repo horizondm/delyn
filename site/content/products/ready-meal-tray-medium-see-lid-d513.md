@@ -1,20 +1,19 @@
 ---
-title: "Ready Meal Tray Medium see lid D513"
-date: 2014-03-18T00:00:00Z
-draft: false
-imagealt: ""
-imageurl: ""
-3d: ""
-categories: ["Meal Tray"]
-types: ["Tray"]
+title: Ready Meal Tray Medium see lid D513
+date: 2014-03-18T00:00:00.000Z
+imageurl: /img/d512-0-251-ready-meal-tray-medium-see-lid-d513.png
+categories:
+  - Meal Tray
+types:
+  - Tray
 productinfo:
-  internetno: "D512"
-  productno: "0-251"
-  length: 170
-  width: 126
   depth: 36
-  shape: "Rectangle"
-  polymer: "DEEP FREEZE PP"
+  internetno: D512
+  length: 170
+  polymer: DEEP FREEZE PP
+  productno: 0-251
+  shape: Rectangle
+  width: 126
 ---
 Ready Meal Tray Medium see lid D513. This is a "medium" size open tray to hold ready meals, ethnic foods, stews etc.. Perfect for the pub catering trade and made in polypropylene which is suitable for microwave applications (not Conventional ovens). Available to order in Natural and Black and comes with optional lid - see D513.
 
