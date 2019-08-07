@@ -1,20 +1,19 @@
 ---
-title: "Ready Meal Lid Small for tray D528"
-date: 2014-03-18T00:00:00Z
-draft: false
-imagealt: ""
-imageurl: ""
-3d: ""
-categories: ["Meal Tray"]
-types: ["Lid"]
+title: Ready Meal Lid Small for tray D528
+date: 2014-03-18T00:00:00.000Z
+imageurl: /img/d529-0-268-ready-meal-lid-small-for-tray-d528.png
+categories:
+  - Meal Tray
+types:
+  - Lid
 productinfo:
-  internetno: "D529"
-  productno: "0-268"
-  length: 144
-  width: 112
   depth: 15
-  shape: "Rectangle"
-  polymer: "DEEP FREEZE PP"
+  internetno: D529
+  length: 144
+  polymer: DEEP FREEZE PP
+  productno: 0-268
+  shape: Rectangle
+  width: 112
 ---
 Ready Meal Lid Small for tray D528. This "Small" size Lid fits onto our "Small" ready meal tray. Made in polypropylene it is suitable for microwave applications. Available to order in Natural polypropylene.
 
