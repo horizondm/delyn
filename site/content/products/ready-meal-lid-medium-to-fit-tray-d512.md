@@ -1,20 +1,19 @@
 ---
-title: "Ready Meal Lid - Medium - to fit tray D512"
-date: 2014-03-18T00:00:00Z
-draft: false
-imagealt: ""
-imageurl: ""
-3d: ["/3d/products/D-5280-267-SMALL-AUTHENTIC-LID-3D2.stl","/3d/products/D-5280-267-SMALL-AUTHENTIC-LID-3D1.stl","/3d/products/D-5280-267-SMALL-AUTHENTIC-LID-3D.stl"]
-categories: ["Meal Tray"]
-types: ["Lid"]
+title: Ready Meal Lid - Medium - to fit tray D512
+date: 2014-03-18T00:00:00.000Z
+imageurl: /img/d513-0-252-ready-meal-lid-medium-to-fit-tray-d512.png
+categories:
+  - Meal Tray
+types:
+  - Lid
 productinfo:
-  internetno: "D513"
-  productno: "0-252"
-  length: 177
-  width: 133
   depth: 16
-  shape: "Rectangle"
-  polymer: "DEEP FREEZE PP"
+  internetno: D513
+  length: 177
+  polymer: DEEP FREEZE PP
+  productno: 0-252
+  shape: Rectangle
+  width: 133
 ---
 Ready Meal Lid - Medium - to fit tray D512. This "Medium" size lid fits onto our "Medium" ready meal tray. Made in polypropylene it is suitable for microwave applications. Available to order in Natural polypropylene.
 
