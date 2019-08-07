@@ -1,20 +1,20 @@
 ---
-title: "Twin Insert"
-date: 2014-03-18T00:00:00Z
-draft: false
-imagealt: ""
-imageurl: ""
-3d: ""
-categories: ["Meal Tray","Bakery"]
-types: ["Tray"]
+title: Twin Insert
+date: 2014-03-18T00:00:00.000Z
+imageurl: /img/d452-0-199-twin-insert.png
+categories:
+  - Meal Tray
+  - Bakery
+types:
+  - Tray
 productinfo:
-  internetno: "D452"
-  productno: "0-199"
-  length: 195
-  width: 95
   depth: 15
-  shape: "Rectangle"
-  polymer: "A-PET"
+  internetno: D452
+  length: 195
+  polymer: A-PET
+  productno: 0-199
+  shape: Rectangle
+  width: 95
 ---
 Twin Insert. Designed to take two ramekins and prevent them knocking together this product is available in clear or black material.
 
